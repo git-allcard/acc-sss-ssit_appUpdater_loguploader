@@ -1,0 +1,90 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="db_DSN" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="db_Server" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="db_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="db_UName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="db_Pass" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="kioskBranch" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C06</Value>
+    </Setting>
+    <Setting Name="transTag" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TR</Value>
+    </Setting>
+    <Setting Name="FirstRun" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="video_Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Video/SSS.mp4</Value>
+    </Setting>
+    <Setting Name="charter_Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SSIT_Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SSIT_SERVER/SSIT_SERVER.exe</Value>
+    </Setting>
+    <Setting Name="setting_Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ftpUserID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">test</Value>
+    </Setting>
+    <Setting Name="ftpPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">test</Value>
+    </Setting>
+    <Setting Name="downloadedPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\SSIT</Value>
+    </Setting>
+    <Setting Name="ftpIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.0.202.97</Value>
+    </Setting>
+    <Setting Name="terms_Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SSIT_origPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\SSIT\SSIT_SERVER.exe</Value>
+    </Setting>
+    <Setting Name="sett" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ftp_Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Application/SSIT_SERVER.exe</Value>
+    </Setting>
+    <Setting Name="Settings_lastUpdated" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Video_lastUpdated" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Terms_lastUpdated" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Application_lastUpdated" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Citizen_lastUpdated" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="folderLastLogs" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="runConfig" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="terminalIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

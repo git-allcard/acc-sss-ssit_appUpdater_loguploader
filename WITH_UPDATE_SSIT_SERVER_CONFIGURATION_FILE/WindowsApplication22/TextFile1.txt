@@ -1,0 +1,128 @@
+      If System.IO.File.Exists(copyFile) = False Then
+
+                System.IO.File.Copy(strFilename, copyFile)
+                Dim read1 As StreamReader = New StreamReader(copyFile)
+                txtRead = read1.ReadToEnd
+                txtRead1 = txtRead.ToString.Split(vbNewLine)
+                txtRead = txtRead.ToString.Trim
+                read1.Close()
+                read1 = Nothing
+
+                If txtRead <> "" Then
+                    Dim txtString, txtString1 As String
+                    Dim txt1 As String
+                    Dim txt4 As String
+
+                    For k = LBound(txtRead1) To UBound(txtRead1)
+
+                        txt4 = txtRead1(k).ToString.Trim
+                        If txt4 = "" Then
+                        Else
+                            txtString1 = txt4 & vbNewLine & vbNewLine
+                            txtString = txtString & txtString1
+                            Dim sAry As String() = Split(txt4, "|")  ' separate the fields
+                            aRow(0) = sAry(0)
+                            aRow(1) = sAry(1)
+                            aRow(2) = sAry(2)
+                            aRow(3) = sAry(3)
+                            aRow(4) = sAry(4)
+                            aRow(5) = sAry(5)
+                            aRow(6) = sAry(6)
+                            aRow(7) = sAry(7)
+                            aRow(8) = sAry(8)
+                            aRow(9) = sAry(9)
+                            aRow(10) = sAry(10)
+                            aRow(11) = sAry(11)
+                            aRow(12) = sAry(12)
+
+                            db.ExecuteSQLQuery("Insert Into SSTRANSAT (SSNUM,PROC_CD,TAG_MOD,ENCODE_DT,ENCODE_TME,BRANCH_IP,BRANCH_CD,CLSTR,DIVSN,MEMSTAT,CNT_PRNT,TRANSNUM,TRANS_DESC) values ('" & aRow(0) & "','" & aRow(1) & "','" & aRow(2) & "','" & aRow(3) & "','" & aRow(4) & "','" & aRow(5) & "','" & aRow(6) & "','" & aRow(7) & "','" & aRow(8) & "','" & aRow(9) & "','" & aRow(10) & "','" & aRow(11) & "','" & aRow(12) & "')")
+
+                            Dim origRead As StreamReader = New StreamReader(strFilename)
+                            readOrig = origRead.ReadToEnd
+                            readOrig1 = readOrig.ToString.Split(vbNewLine)
+                            readOrig = readOrig.ToString.Trim
+                            origRead.Close()
+                            origRead = Nothing
+
+                            Using SW As New IO.StreamWriter(strFilename, False)
+                                txt3 = readOrig1(k)
+                                txt2 = "1|" & txt3.Trim '& vbNewLine
+                                truText = truText & txt2
+                                txt1 = readOrig.ToString.Replace(txt3.Trim, txt2)
+                                SW.WriteLine(txt1)
+                                SW.Close()
+                            End Using
+
+                        End If
+
+                    Next
+                Else
+                End If
+
+            ElseIf System.IO.File.Exists(copyFile) = True Then
+                Dim sendYesLogs As String
+                Dim txtStr, txtStr1 As String
+                Dim read1 As StreamReader = New StreamReader(strFilename)
+                txtRead = read1.ReadToEnd
+                txtRead1 = txtRead.ToString.Split(vbNewLine)
+                txtRead = txtRead.ToString.Trim
+                read1.Close()
+                read1 = Nothing
+
+
+                If txtRead <> "" Then
+                    Dim yesLogs
+                    yesLogs = txtRead1
+
+                    For r = LBound(yesLogs) To UBound(yesLogs)
+                        Dim yesLogs_delimit = yesLogs
+                        txtStr = yesLogs_delimit(r)
+                        If txtStr.Trim = "" Then
+                        Else
+                            Dim lAry As String() = Split(txtStr, "|")  ' separate the fields
+
+                            If lAry(0).Trim = "1" Then
+                                ' do nothing
+                            ElseIf lAry(0) <> "1" Then
+                                aRow(0) = lAry(0)
+                                aRow(1) = lAry(1)
+                                aRow(2) = lAry(2)
+                                aRow(3) = lAry(3)
+                                aRow(4) = lAry(4)
+                                aRow(5) = lAry(5)
+                                aRow(6) = lAry(6)
+                                aRow(7) = lAry(7)
+                                aRow(8) = lAry(8)
+                                aRow(9) = lAry(9)
+                                aRow(10) = lAry(10)
+                                aRow(11) = lAry(11)
+                                aRow(12) = lAry(12)
+
+                                db.ExecuteSQLQuery("Insert Into SSTRANSAT (SSNUM,PROC_CD,TAG_MOD,ENCODE_DT,ENCODE_TME,BRANCH_IP,BRANCH_CD,CLSTR,DIVSN,MEMSTAT,CNT_PRNT,TRANSNUM,TRANS_DESC) values ('" & aRow(0) & "','" & aRow(1) & "','" & aRow(2) & "','" & aRow(3) & "','" & aRow(4) & "','" & aRow(5) & "','" & aRow(6) & "','" & aRow(7) & "','" & aRow(8) & "','" & aRow(9) & "','" & aRow(10) & "','" & aRow(11) & "','" & aRow(12) & "')")
+
+                                Dim origRead As StreamReader = New StreamReader(strFilename)
+                                readOrig = origRead.ReadToEnd
+                                readOrig1 = readOrig.ToString.Split(vbNewLine)
+                                readOrig = readOrig.ToString.Trim
+                                origRead.Close()
+                                origRead = Nothing
+
+                                Using SW As New IO.StreamWriter(strFilename, False)
+                                    txt3 = readOrig1(r)
+
+                                    txt2 = "1|" & txt3.Trim '& vbNewLine
+                                    truText = truText & txt2
+                                    sendYesLogs = readOrig.ToString.Replace(txt3.Trim, txt2)
+
+                                    SW.WriteLine(sendYesLogs)
+
+                                    SW.Close()
+                                End Using
+                            End If
+                        End If
+                    Next
+                    File.Delete(copyFile)
+                End If
+            End If
+            _frmUpdateFile.Hide()
+            _frmFTPSettings.Hide()

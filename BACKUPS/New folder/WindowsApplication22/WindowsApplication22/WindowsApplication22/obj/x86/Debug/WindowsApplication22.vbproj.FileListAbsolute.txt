@@ -1,0 +1,57 @@
+c:\users\ncjaluag\documents\visual studio 2010\Projects\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.exe.config
+c:\users\ncjaluag\documents\visual studio 2010\Projects\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.exe
+c:\users\ncjaluag\documents\visual studio 2010\Projects\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.pdb
+c:\users\ncjaluag\documents\visual studio 2010\Projects\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.xml
+c:\users\ncjaluag\documents\visual studio 2010\Projects\WindowsApplication22\WindowsApplication22\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ncjaluag\documents\visual studio 2010\Projects\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.Form1.resources
+c:\users\ncjaluag\documents\visual studio 2010\Projects\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.Resources.resources
+c:\users\ncjaluag\documents\visual studio 2010\Projects\WindowsApplication22\WindowsApplication22\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ncjaluag\documents\visual studio 2010\Projects\WindowsApplication22\WindowsApplication22\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ncjaluag\documents\visual studio 2010\Projects\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.exe
+c:\users\ncjaluag\documents\visual studio 2010\Projects\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.xml
+c:\users\ncjaluag\documents\visual studio 2010\Projects\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.pdb
+D:\for SSS\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.exe.config
+D:\for SSS\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.exe
+D:\for SSS\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.xml
+D:\for SSS\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.pdb
+D:\for SSS\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.exe
+D:\for SSS\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.pdb
+D:\for SSS\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.xml
+D:\for SSS\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.Form1.resources
+D:\for SSS\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.Resources.resources
+D:\for SSS\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.vbproj.GenerateResource.Cache
+C:\Users\NCJALUAG\Desktop\from argie\07092014\TRANSNUM\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.exe.config
+C:\Users\NCJALUAG\Desktop\from argie\07092014\TRANSNUM\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.exe
+C:\Users\NCJALUAG\Desktop\from argie\07092014\TRANSNUM\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.xml
+C:\Users\NCJALUAG\Desktop\from argie\07092014\TRANSNUM\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.pdb
+C:\Users\Oracle\Desktop\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.exe.config
+C:\Users\Oracle\Desktop\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.exe
+C:\Users\Oracle\Desktop\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.xml
+C:\Users\Oracle\Desktop\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.pdb
+C:\Users\Oracle\Desktop\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.exe
+C:\Users\Oracle\Desktop\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.pdb
+C:\Users\Oracle\Desktop\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.xml
+C:\Users\Oracle\Desktop\WindowsApplication22\WindowsApplication22\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oracle\Desktop\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.Form1.resources
+C:\Users\Oracle\Desktop\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.Resources.resources
+C:\Users\Oracle\Desktop\WindowsApplication22\WindowsApplication22\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Oracle\Desktop\WindowsApplication22\WindowsApplication22\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Oracle\Desktop\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.Form2.resources
+\\10.0.202.95\Users\Public\shared\nikki\08022014\FROM JEAN\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.exe.config
+\\10.0.202.95\Users\Public\shared\nikki\08022014\FROM JEAN\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.exe
+\\10.0.202.95\Users\Public\shared\nikki\08022014\FROM JEAN\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.xml
+\\10.0.202.95\Users\Public\shared\nikki\08022014\FROM JEAN\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.pdb
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.exe.config
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.exe
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.xml
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.pdb
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.exe
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.pdb
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.xml
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.Resources.resources
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22._frmSendLogs.resources
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22._frmFTPSettings.resources
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22._frmUpdateFile.resources

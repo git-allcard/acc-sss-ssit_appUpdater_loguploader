@@ -1,0 +1,20 @@
+D:\for sss\oct 20 2014\WindowsApplication22\WindowsApplication1\bin\Debug\UPDATES_UPDATER.exe
+D:\for sss\oct 20 2014\WindowsApplication22\WindowsApplication1\bin\Debug\UPDATES_UPDATER.pdb
+D:\for sss\oct 20 2014\WindowsApplication22\WindowsApplication1\bin\Debug\UPDATES_UPDATER.xml
+D:\for sss\oct 20 2014\WindowsApplication22\WindowsApplication1\obj\x86\Debug\UPDATES_UPDATER._frmUpdateUpdater.resources
+D:\for sss\oct 20 2014\WindowsApplication22\WindowsApplication1\obj\x86\Debug\UPDATES_UPDATER.Resources.resources
+D:\for sss\oct 20 2014\WindowsApplication22\WindowsApplication1\obj\x86\Debug\SSIT_UPDATER_1.vbproj.GenerateResource.Cache
+D:\for sss\oct 20 2014\WindowsApplication22\WindowsApplication1\obj\x86\Debug\UPDATES_UPDATER.exe
+D:\for sss\oct 20 2014\WindowsApplication22\WindowsApplication1\obj\x86\Debug\UPDATES_UPDATER.xml
+D:\for sss\oct 20 2014\WindowsApplication22\WindowsApplication1\obj\x86\Debug\UPDATES_UPDATER.pdb
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication1\bin\Debug\UPDATES_UPDATER.exe
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication1\bin\Debug\UPDATES_UPDATER.pdb
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication1\bin\Debug\UPDATES_UPDATER.xml
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication1\obj\x86\Debug\UPDATES_UPDATER._frmUpdateUpdater.resources
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication1\obj\x86\Debug\UPDATES_UPDATER.Resources.resources
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication1\obj\x86\Debug\UPDATES_UPDATER.exe
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication1\obj\x86\Debug\UPDATES_UPDATER.xml
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication1\obj\x86\Debug\UPDATES_UPDATER.pdb

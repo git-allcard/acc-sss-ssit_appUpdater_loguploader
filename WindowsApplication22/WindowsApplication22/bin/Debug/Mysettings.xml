@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XML Settings.-->
+<Configuration>
+  <Settings>
+    <db_DSN>ssit</db_DSN>
+    <db_Server>10.0.6.191</db_Server>
+    <db_Name>SSIT_SERVER</db_Name>
+    <db_UName>set_user</db_UName>
+    <db_Pass>Shi3Ldw@ll2075</db_Pass>
+    <kioskBranch>C06</kioskBranch>
+    <transTag>
+    </transTag>
+    <FirstRun>1</FirstRun>
+    <video_Path>Video/SSS.mp4</video_Path>
+    <charter_Path>
+    </charter_Path>
+    <SSIT_Path>Settings/SQLSettings.txt</SSIT_Path>
+    <setting_Path>
+    </setting_Path>
+    <ftpUserID>ftuser</ftpUserID>
+    <ftpPassword>Allcard2021*</ftpPassword>
+    <ftpIP>10.0.6.191</ftpIP>
+    <terms_Path>
+    </terms_Path>
+    <downloadedPath>D:\SSIT\</downloadedPath>
+    <terms_Path>
+    </terms_Path>
+    <SSIT_origPath>C:\Program Files (x86)\SSIT\SSIT_SERVER.exe</SSIT_origPath>
+    <sett>
+    </sett>
+    <ftp_Path>Settings/SQLSettings.txt</ftp_Path>
+    <Settings_lastUpdated>
+    </Settings_lastUpdated>
+    <Video_lastUpdated>2015-01-20</Video_lastUpdated>
+    <Terms_lastUpdated>3/2/2021</Terms_lastUpdated>
+    <Application_lastUpdated>3/2/2021</Application_lastUpdated>
+    <Citizen_lastUpdated>3/2/2021</Citizen_lastUpdated>
+    <Updater_LastUpdated>2/11/2015</Updater_LastUpdated>
+    <Updater_FilePath>
+    </Updater_FilePath>
+    <Updater_ftpPath>
+    </Updater_ftpPath>
+    <folderLastLogs>
+    </folderLastLogs>
+    <runConfig>1</runConfig>
+    <terminalIP>169.254.38.92</terminalIP>
+    <deleteFile>0</deleteFile>
+    <firstConfig>0</firstConfig>
+  </Settings>
+</Configuration>

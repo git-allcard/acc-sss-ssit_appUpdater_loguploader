@@ -1,0 +1,86 @@
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.exe
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.exe.config
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.pdb
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.xml
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.Form1.resources
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22._frmFTPSettings.resources
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22._frmSendLogs.resources
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22._frmUpdateFile.resources
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.Resources.resources
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.exe
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.xml
+C:\Users\NCJALUAG\Desktop\JEan\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.pdb
+F:\FOR SSS\FROM JEAN\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.exe.config
+F:\FOR SSS\FROM JEAN\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.exe
+F:\FOR SSS\FROM JEAN\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.pdb
+F:\FOR SSS\FROM JEAN\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\bin\Debug\WindowsApplication22.xml
+F:\FOR SSS\FROM JEAN\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\FOR SSS\FROM JEAN\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.Form1.resources
+F:\FOR SSS\FROM JEAN\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22._frmFTPSettings.resources
+F:\FOR SSS\FROM JEAN\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22._frmSendLogs.resources
+F:\FOR SSS\FROM JEAN\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22._frmUpdateFile.resources
+F:\FOR SSS\FROM JEAN\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.Resources.resources
+F:\FOR SSS\FROM JEAN\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\FOR SSS\FROM JEAN\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\FOR SSS\FROM JEAN\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.exe
+F:\FOR SSS\FROM JEAN\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.xml
+F:\FOR SSS\FROM JEAN\08022014\NIKKI ETO NA\WindowsApplication22\WindowsApplication22\obj\x86\Debug\WindowsApplication22.pdb
+D:\for sss\oct 20 2014\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSS_SSIT_UPDATER.vbproj.GenerateResource.Cache
+D:\for sss\oct 20 2014\WindowsApplication22\WindowsApplication22\bin\Debug\SSIT_UPDATER.exe.config
+D:\for sss\oct 20 2014\WindowsApplication22\WindowsApplication22\bin\Debug\SSIT_UPDATER.exe.manifest
+D:\for sss\oct 20 2014\WindowsApplication22\WindowsApplication22\bin\Debug\SSIT_UPDATER.application
+D:\for sss\oct 20 2014\WindowsApplication22\WindowsApplication22\bin\Debug\SSIT_UPDATER.exe
+D:\for sss\oct 20 2014\WindowsApplication22\WindowsApplication22\bin\Debug\SSIT_UPDATER.pdb
+D:\for sss\oct 20 2014\WindowsApplication22\WindowsApplication22\bin\Debug\SSIT_UPDATER.xml
+D:\for sss\oct 20 2014\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER.Form1.resources
+D:\for sss\oct 20 2014\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER._frmFTPSettings.resources
+D:\for sss\oct 20 2014\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER._frmSendLogs.resources
+D:\for sss\oct 20 2014\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER._frmUpdateFile.resources
+D:\for sss\oct 20 2014\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER.Resources.resources
+D:\for sss\oct 20 2014\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER.exe.manifest
+D:\for sss\oct 20 2014\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER.application
+D:\for sss\oct 20 2014\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER.exe
+D:\for sss\oct 20 2014\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER.xml
+D:\for sss\oct 20 2014\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER.pdb
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\bin\Debug\SSIT_UPDATER.exe.config
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\bin\Debug\SSIT_UPDATER.exe.manifest
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\bin\Debug\SSIT_UPDATER.application
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\bin\Debug\SSIT_UPDATER.exe
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\bin\Debug\SSIT_UPDATER.pdb
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\bin\Debug\SSIT_UPDATER.xml
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER.Form1.resources
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER._frmFTPSettings.resources
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER._frmNotConnected.resources
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER._frmSendLogs.resources
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER._frmUpdateFile.resources
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER.Resources.resources
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER.exe.manifest
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER.application
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER.exe
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER.xml
+D:\FOR SSS\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER.pdb
+D:\WORK\Projects\SSS SET\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER.Form1.resources
+D:\WORK\Projects\SSS SET\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER._frmFTPSettings.resources
+D:\WORK\Projects\SSS SET\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER._frmNotConnected.resources
+D:\WORK\Projects\SSS SET\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER._frmSendLogs.resources
+D:\WORK\Projects\SSS SET\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER._frmUpdateFile.resources
+D:\WORK\Projects\SSS SET\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER.Resources.resources
+D:\WORK\Projects\SSS SET\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSS_SSIT_UPDATER.vbproj.GenerateResource.cache
+D:\WORK\Projects\SSS SET\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSS_SSIT_UPDATER.vbproj.CoreCompileInputs.cache
+D:\WORK\Projects\SSS SET\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER.exe
+D:\WORK\Projects\SSS SET\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER.xml
+D:\WORK\Projects\SSS SET\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSIT_UPDATER.pdb
+D:\WORK\Projects\SSS SET\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\bin\Debug\SSIT_UPDATER.exe.config
+D:\WORK\Projects\SSS SET\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\bin\Debug\SSIT_UPDATER.exe
+D:\WORK\Projects\SSS SET\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\bin\Debug\SSIT_UPDATER.pdb
+D:\WORK\Projects\SSS SET\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\bin\Debug\SSIT_UPDATER.xml
+D:\WORK\Projects\SSS SET\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\bin\Debug\DevComponents.DotNetBar2.dll
+D:\WORK\Projects\SSS SET\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\bin\Debug\DevComponents.DotNetBar2.xml
+D:\WORK\Projects\SSS SET\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSS_SSIT_UPDATER.vbproj.CopyComplete
+D:\WORK\Projects\SSS SET\SSIT_UPDATER\WindowsApplication22\WindowsApplication22\obj\x86\Debug\SSS_SSIT_UPDATER.vbproj.AssemblyReference.cache

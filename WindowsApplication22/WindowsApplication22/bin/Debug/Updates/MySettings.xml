@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XML Settings.-->
+<Configuration>
+  <Settings>
+    <db_DSN>ssit</db_DSN>
+    <db_Server>10.0.202.95</db_Server>
+    <db_Name>SSIT_SERVER</db_Name>
+    <db_UName>sa</db_UName>
+    <db_Pass>password2013</db_Pass>
+    <kioskBranch>
+    </kioskBranch>
+    <transTag>
+    </transTag>
+    <FirstRun>1</FirstRun>
+    <video_Path>Video/SSS.mp4</video_Path>
+    <charter_Path>
+    </charter_Path>
+    <SSIT_Path>Settings/ORASettings.txt</SSIT_Path>
+    <setting_Path>
+    </setting_Path>
+    <ftpUserID>test</ftpUserID>
+    <ftpPassword>test</ftpPassword>
+    <ftpIP>10.0.202.97</ftpIP>
+    <terms_Path>
+    </terms_Path>
+    <downloadedPath>D:\SSIT\</downloadedPath>
+    <terms_Path>
+    </terms_Path>
+    <SSIT_origPath>C:\Program Files\SSIT\SSIT_SERVER.exe</SSIT_origPath>
+    <sett>
+    </sett>
+    <ftp_Path>Application/SSIT_SERVER.exe</ftp_Path>
+    <Settings_lastUpdated>
+    </Settings_lastUpdated>
+    <Video_lastUpdated>
+    </Video_lastUpdated>
+    <Terms_lastUpdated>
+    </Terms_lastUpdated>
+    <Application_lastUpdated>2014-11-27</Application_lastUpdated>
+    <Citizen_lastUpdated>
+    </Citizen_lastUpdated>
+    <Updater_LastUpdated>
+    </Updater_LastUpdated>
+    <Updater_FilePath>
+    </Updater_FilePath>
+    <Updater_ftpPath>
+    </Updater_ftpPath>
+    <folderLastLogs>
+    </folderLastLogs>
+    <runConfig>1</runConfig>
+    <terminalIP>10.0.202.96</terminalIP>
+    <deleteFile>0</deleteFile>
+    <firstConfig>0</firstConfig>
+  </Settings>
+</Configuration>
